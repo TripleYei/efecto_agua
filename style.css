@@ -23,7 +23,7 @@ body {
 
 .content h2 {
 	color: white;
-	font-size: 5em;
+	font-size: 3em;
 	position: absolute;
 	transform: translate(-50%, -50%);
 }
